@@ -72,7 +72,7 @@ The main objectives of this practical were to:
 | **Curl**         | HTTP response-header inspection                       | [View Curl Evidence](evidence/curl.png)                    |
 | **Wafw00f**      | Web Application Firewall identification               | [View Wafw00f Evidence](evidence/wafw00f.png)              |
 | **DNSRecon**     | DNS record enumeration                                | [View DNSRecon Evidence](evidence/dnsrecon.png)            |
-| **theHarvester** | OSINT and public-source reconnaissance                | [View Baidu Evidence](evidence/theHarvester.png)     |
+| **theHarvester** | OSINT and public-source reconnaissance                | [View Baidu Evidence](evidence/theHarverster.png)     |
 | **theHarvester** | Multi-source reconnaissance                           | [View All-Sources Evidence](evidence/theharvesterhelp.png) |
 
 ---
@@ -135,7 +135,7 @@ Registration dates, registrar information, domain status and name servers can al
 
 📸 **WHOIS Screenshot**
 
-![Nslookup Screenshot](evidence/Whois.png)
+![whois Screenshot](evidence/Whois.png)
 
 ---
 
@@ -185,7 +185,7 @@ Known technologies and versions can then be compared against security advisories
 
 📸 **WhatWeb Screenshot**
 
- ![Nslookup Screenshot](evidence/whatweb.png)
+ ![whatweb Screenshot](evidence/whatweb.png)
 
 ---
 
@@ -273,7 +273,7 @@ This information may assist technology fingerprinting and subsequent authorized 
 
 📸 **Curl Screenshot**
 
- ![Nslookup Screenshot](evidence/curl.png)
+ ![curl Screenshot](evidence/curl.png)
 
 ---
 
@@ -309,7 +309,7 @@ Knowing that a WAF exists is useful during an authorized security assessment bec
 
 📸 **Wafw00f Screenshot**
 
-![Nslookup Screenshot](evidence/wafw00f.png)
+![wafwoof Screenshot](evidence/wafw00f.png)
 
 ---
 
@@ -388,7 +388,7 @@ This information can contribute to an external infrastructure map.
 
 📸 **DNSRecon Screenshot**
 
-![Nslookup Screenshot](evidence/dnsrecon.png)
+![dnsrecon Screenshot](evidence/dnsrecon.png)
 
 ---
 
@@ -425,7 +425,7 @@ It simply means that the selected source did not return useful results during th
 
 📸 **theHarvester Baidu Screenshot**
 
-![Nslookup Screenshot](evidence/theHarvester.png)
+![theHavester Screenshot](evidence/theHarverster.png)
 
 ---
 
@@ -499,7 +499,7 @@ Therefore, missing results should be treated as **limitations**, not proof that 
 
 📸 **theHarvester Multi-Source Screenshot**
 
-![Nslookup Screenshot](evidence/theHarvester.png)
+![theHavester Screenshot](evidence/theHarverster.png)
 
 ---
 
