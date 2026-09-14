@@ -66,14 +66,14 @@ The main objectives of this practical were to:
 
 | Tool             | Purpose                                               | Evidence                                                   |
 | ---------------- | ----------------------------------------------------- | ---------------------------------------------------------- |
-| **WHOIS**        | Domain registration and ownership-related information | [View WHOIS Evidence](evidence/whois.jpg)                  |
-| **WhatWeb**      | Web technology fingerprinting                         | [View WhatWeb Evidence](evidence/whatweb.jpg)              |
-| **Nslookup**     | DNS resolution and IP identification                  | [View Nslookup Evidence](evidence/nslookup.jpg)            |
-| **Curl**         | HTTP response-header inspection                       | [View Curl Evidence](evidence/curl.jpg)                    |
-| **Wafw00f**      | Web Application Firewall identification               | [View Wafw00f Evidence](evidence/wafw00f.jpg)              |
-| **DNSRecon**     | DNS record enumeration                                | [View DNSRecon Evidence](evidence/dnsrecon.jpg)            |
-| **theHarvester** | OSINT and public-source reconnaissance                | [View Baidu Evidence](evidence/theharvester-baidu.jpg)     |
-| **theHarvester** | Multi-source reconnaissance                           | [View All-Sources Evidence](evidence/theharvester-all.jpg) |
+| **WHOIS**        | Domain registration and ownership-related information | [View WHOIS Evidence](evidence/Whois.png)                  |
+| **WhatWeb**      | Web technology fingerprinting                         | [View WhatWeb Evidence](evidence/whatweb.png)              |
+| **Nslookup**     | DNS resolution and IP identification                  | [View Nslookup Evidence](evidence/nslookup.png)            |
+| **Curl**         | HTTP response-header inspection                       | [View Curl Evidence](evidence/curl.png)                    |
+| **Wafw00f**      | Web Application Firewall identification               | [View Wafw00f Evidence](evidence/wafw00f.png)              |
+| **DNSRecon**     | DNS record enumeration                                | [View DNSRecon Evidence](evidence/dnsrecon.png)            |
+| **theHarvester** | OSINT and public-source reconnaissance                | [View Baidu Evidence](evidence/theHarvester.png)     |
+| **theHarvester** | Multi-source reconnaissance                           | [View All-Sources Evidence](evidence/theharvesterhelp.png) |
 
 ---
 
@@ -135,7 +135,7 @@ Registration dates, registrar information, domain status and name servers can al
 
 📸 **WHOIS Screenshot**
 
-[Open `whois.jpg`](evidence/whois.jpg)
+[Open `whois.jpg`](evidence/Whois.png)
 
 ---
 
@@ -185,7 +185,7 @@ Known technologies and versions can then be compared against security advisories
 
 📸 **WhatWeb Screenshot**
 
-[Open `whatweb.jpg`](evidence/whatweb.jpg)
+[Open `whatweb.jpg`](evidence/whatweb.png)
 
 ---
 
@@ -226,7 +226,7 @@ The discovered IP address can be used as an input for further **authorized** ass
 
 📸 **Nslookup Screenshot**
 
-[Open `nslookup.jpg`](evidence/nslookup.jpg)
+[Open `nslookup.jpg`](evidence/nslookup.png)
 
 ---
 
@@ -273,7 +273,7 @@ This information may assist technology fingerprinting and subsequent authorized 
 
 📸 **Curl Screenshot**
 
-[Open `curl.jpg`](evidence/curl.jpg)
+[Open `curl.jpg`](evidence/curl.png)
 
 ---
 
@@ -309,7 +309,7 @@ Knowing that a WAF exists is useful during an authorized security assessment bec
 
 📸 **Wafw00f Screenshot**
 
-[Open `wafw00f.jpg`](evidence/wafw00f.jpg)
+[Open `wafw00f.jpg`](evidence/wafw00f.png)
 
 ---
 
@@ -388,7 +388,7 @@ This information can contribute to an external infrastructure map.
 
 📸 **DNSRecon Screenshot**
 
-[Open `dnsrecon.jpg`](evidence/dnsrecon.jpg)
+[Open `dnsrecon.jpg`](evidence/dnsrecon.png)
 
 ---
 
@@ -425,7 +425,7 @@ It simply means that the selected source did not return useful results during th
 
 📸 **theHarvester Baidu Screenshot**
 
-[Open `theharvester-baidu.jpg`](evidence/theharvester-baidu.jpg)
+[Open `theharvester-baidu.jpg`](evidence/theHarvester.png)
 
 ---
 
@@ -499,7 +499,7 @@ Therefore, missing results should be treated as **limitations**, not proof that 
 
 📸 **theHarvester Multi-Source Screenshot**
 
-[Open `theHarvester.jpg`](evidence/theHarvester.jpg)
+[Open `theHarvester.jpg`](evidence/theHarvester.png)
 
 ---
 
@@ -594,8 +594,8 @@ The complete professional report can be stored in:
 report/penetration-testing-report.pdf
 ```
 
-**[📄 View Full Penetration Testing Report](report/penetration-testing-report.pdf)**
-**[📄 View EVIDENT Penetration Testing Report](report/penetration-testing-report.pdf)**
+**[📄 View Full Penetration Testing Report](report/WK1_PM1_PM4_REPORT.docx)**
+**[📄 View EVIDENT Penetration Testing Report](report/WK2_PM1_PM4_Report_.docx)**
 
 ---
 
