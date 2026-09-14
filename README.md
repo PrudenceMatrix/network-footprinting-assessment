@@ -135,7 +135,7 @@ Registration dates, registrar information, domain status and name servers can al
 
 📸 **WHOIS Screenshot**
 
-[Open `whois.jpg`](evidence/Whois.png)
+![Nslookup Screenshot](evidence/Whois.png)
 
 ---
 
@@ -185,7 +185,7 @@ Known technologies and versions can then be compared against security advisories
 
 📸 **WhatWeb Screenshot**
 
-[Open `whatweb.jpg`](evidence/whatweb.png)
+ ![Nslookup Screenshot](evidence/whatweb.png)
 
 ---
 
@@ -226,7 +226,7 @@ The discovered IP address can be used as an input for further **authorized** ass
 
 📸 **Nslookup Screenshot**
 
-[Open `nslookup.jpg`](evidence/nslookup.png)
+![Nslookup Screenshot](evidence/nslookup.png)
 
 ---
 
@@ -273,7 +273,7 @@ This information may assist technology fingerprinting and subsequent authorized 
 
 📸 **Curl Screenshot**
 
-[Open `curl.jpg`](evidence/curl.png)
+ ![Nslookup Screenshot](evidence/curl.png)
 
 ---
 
@@ -309,7 +309,7 @@ Knowing that a WAF exists is useful during an authorized security assessment bec
 
 📸 **Wafw00f Screenshot**
 
-[Open `wafw00f.jpg`](evidence/wafw00f.png)
+![Nslookup Screenshot](evidence/wafw00f.png)
 
 ---
 
@@ -388,7 +388,7 @@ This information can contribute to an external infrastructure map.
 
 📸 **DNSRecon Screenshot**
 
-[Open `dnsrecon.jpg`](evidence/dnsrecon.png)
+![Nslookup Screenshot](evidence/dnsrecon.png)
 
 ---
 
@@ -425,7 +425,7 @@ It simply means that the selected source did not return useful results during th
 
 📸 **theHarvester Baidu Screenshot**
 
-[Open `theharvester-baidu.jpg`](evidence/theHarvester.png)
+![Nslookup Screenshot](evidence/theHarvester.png)
 
 ---
 
@@ -499,7 +499,7 @@ Therefore, missing results should be treated as **limitations**, not proof that 
 
 📸 **theHarvester Multi-Source Screenshot**
 
-[Open `theHarvester.jpg`](evidence/theHarvester.png)
+![Nslookup Screenshot](evidence/theHarvester.png)
 
 ---
 
