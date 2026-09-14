@@ -425,7 +425,7 @@ It simply means that the selected source did not return useful results during th
 
 📸 **theHarvester Baidu Screenshot**
 
-![theHavester Screenshot](evidence/theHarverster.png)
+![theHavester Screenshot](evidence/theHaverster.png)
 
 ---
 
@@ -499,7 +499,7 @@ Therefore, missing results should be treated as **limitations**, not proof that 
 
 📸 **theHarvester Multi-Source Screenshot**
 
-![theHavester Screenshot](evidence/theHarverster.png)
+![theHavester Screenshot](evidence/theHaverster.png)
 
 ---
 
